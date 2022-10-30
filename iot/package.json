@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gatttool": "^1.0.1"
+  }
+}

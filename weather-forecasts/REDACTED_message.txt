@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+cache-control: max-age=1
+content-type: text/html; charset=UTF-8
+referrer-policy: origin
+server: nginx
+
+REDACTED
